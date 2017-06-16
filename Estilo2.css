@@ -1,0 +1,24 @@
+body
+{
+  font-family: 'Righteous', cursive;
+  color: #F7D807;
+  padding: 10px;
+}
+a
+{
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+html
+{
+  background: url(Fondo.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+#Nav
+{
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}

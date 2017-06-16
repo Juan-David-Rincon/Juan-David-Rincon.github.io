@@ -1,0 +1,28 @@
+body
+{
+  font-family: 'Righteous', cursive;
+  color: #F7D807;
+}
+#Escudo
+{
+  width: 180px;
+}
+#Principal
+{
+  text-align: center;
+  margin-top: 120px;
+  font-size: 25px;
+  float: none;
+}
+a
+{
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+html
+{
+  background: url(Fondo.jpg) no-repeat center fixed;
+  background-size: cover;
+}
